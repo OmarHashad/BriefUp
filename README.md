@@ -48,4 +48,4 @@ BriefUp is an AI-powered flashcard web application designed to help students stu
 
 
 ## Author
-Fares Mallah
+Omar Hashad, Fares Mallah
